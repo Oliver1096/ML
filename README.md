@@ -20,6 +20,8 @@ ooooo
 Un modelo no es más que la función de hipotesis, despues de haberse ajustado al dataset.
 La función de hipótesis de una regresión lineal se expresa de la siguiente forma:
 
-\centerline{ $h_\theta \left( x \right) = \theta_0 + \theta_1 x$ }
+\begin{center}
+$h_\theta \left( x \right) = \theta_0 + \theta_1 x$
+\end{center}
 
 En otras palabras, es la **ecuación de la recta**.
