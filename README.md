@@ -38,6 +38,7 @@ La función de error calcula la diferencia entre el valor observado y la predicc
 
 En RL la función de coste más comun que se suele utilizar es **Mean Square Error** (MSE).
 La función de error se determina de la siguiente forma:
-$j \left( \theta \right) = \frac{1}{2m} \sum_{i=1}^{m} \left(h\theta \left(x^{(i)} \right) - y^{i} \right)^{2} $
+
+<p align="center"> $j \left( \theta \right) = \frac{1}{2m} \sum_{i=1}^{m} \left(h\theta \left(x^{(i)} \right) - y^{(i)} \right)^{2} $ </p>
 
 Se pueden aplicar distintas funciones de coste a un mismo algotimo de ML 
