@@ -19,4 +19,4 @@ ooooo
 **Funcion Hipótesis**
 Un modelo no es más que la función de hipotesis, despues de haberse ajustado al dataset.
 
-$h_0 \left( x \right) = 0_0 + 0_1 x$
+$h_\theta \left( x \right) = \theta_0 + \theta_1 x$
