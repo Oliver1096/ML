@@ -15,3 +15,8 @@ ooooo
 - *x* Variable de entrada (feature)
 - *y* Variable de salida (target value)
 - (*x*,*y*) conjunto de datos (dataset)
+
+**Funcion Hipótesis**
+Un modelo no es más que la función de hipotesis, despues de haberse ajustado al dataset.
+
+$h_0 \left( x \right) = 0_0 + 0_1 x$
