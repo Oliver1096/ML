@@ -23,3 +23,5 @@ La función de hipótesis de una regresión lineal se expresa de la siguiente fo
 <p align="center"> $h_\theta \left( x \right) = \theta_0 + \theta_1 x$ </p>
 
 En otras palabras, es la **ecuación de la recta**.
+
+Como se observa el término constante es $\theta_0$ , tambien conocido como **término baias**
