@@ -29,4 +29,15 @@ Como se observa el término constante es $\theta_0$ , tambien conocido como **t�
 **Construcción del modelo**
 
 * Buscar los parámetros $\theta_0$ y $\theta_1$ que generen la función de hipótesis $h_\theta \left( x \right)$ que mejor se adapte al conjunto de datos de entrenamiento (*x*,*y*).
-* Se minimiza una función de coste $j \left( \theta \right)$ para obtener los parámetros $\theta_0$ y $\theta_1$ óptimos
+* Se minimiza una función de coste (también conocida como función de error) $j \left( \theta \right)$ para obtener los parámetros $\theta_0$ y $\theta_1$ óptimos
+
+
+La función de error calcula la diferencia entre el valor observado y la predicción estimada por la función de hipótesis.
+
+**Función de coste**
+
+En RL la función de coste más comun que se suele utilizar es **Mean Square Error** (MSE).
+La función de error se determina de la siguiente forma:
+$j \left( \theta \right) = \frac{1}{2m} \sum_{i=1}^{m} \left(h\theta \left(x^{(i)}\right) - y^{i} $
+
+Se pueden aplicar distintas funciones de coste a un mismo algotimo de ML 
