@@ -25,3 +25,8 @@ La función de hipótesis de una regresión lineal se expresa de la siguiente fo
 En otras palabras, es la **ecuación de la recta**.
 
 Como se observa el término constante es $\theta_0$ , tambien conocido como **término baias**
+
+**Construcción del modelo**
+
+* Buscar los parámetros $\theta_0$ y $\theta_1$ que generen la función de hipótesis $h_\theta \left( x \right)$ que mejor se adapte al conjunto de datos de entrenamiento (*x*,*y*).
+* Se minimiza una función de coste $j \left( \theta \right)$ para obtener los parámetros $\theta_0$ y $\theta_1$ óptimos
