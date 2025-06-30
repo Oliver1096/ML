@@ -41,4 +41,13 @@ La función de error se determina de la siguiente forma:
 
 <p align="center"> $j \left( \theta \right) = \frac{1}{2m} \sum_{i=1}^{m} \left(h\theta \left(x^{(i)} \right) - y^{(i)} \right)^{2}$</p>
 
-Se pueden aplicar distintas funciones de coste a un mismo algotimo de ML 
+Se pueden aplicar distintas funciones de coste a un mismo algotimo de ML.
+
+**Función de Optimización**
+
+SU función es minimizar la función de error.
+
+*Gradient Descent*
+
+
+
