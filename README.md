@@ -50,4 +50,14 @@ SU función es minimizar la función de error.
 *Gradient Descent*
 
 
+# REGRESIÓN LOGISTICA
+
+Intentan predecir un valor discreto, tambien conocidos como modelos de clasificación.
+
+Características:
+* Modelo basado en **aprendizaje supervisado**
+* Aprendizaje basado en modelos, por lo que requiere la construcción de una función de hipotesis
+* Se corresponde con un modelo lineal generalizado
+* Realiza predicciones computando una **suma ponderada de las características de entrada** y sumandole una constante conocida como *bias*, pero se aplica una función logística al resultado.
+* Intenta predecir valores discretos.
 
