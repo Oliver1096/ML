@@ -1,4 +1,4 @@
-ooooo
+ooooo agregar int 
 
 # REGRESIÓN LINEAL.
 
